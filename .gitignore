@@ -20,10 +20,6 @@ firebasemain.json
 # .firebaserc
 
 
-firebase.js
-firebase.json
-firebasemain.json
-serviceAccountKey.js
 
 # Runtime data
 pids
